@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="class03">
+    <output-path>$PROJECT_DIR$/out/artifacts/class03</output-path>
+    <root id="archive" name="class03.jar">
+      <element id="javaee-facet-resources" facet="class03-response/web/Web" />
+    </root>
+  </artifact>
+</component>
